@@ -1,0 +1,62 @@
+
+body{
+    margin: 0px;
+    text-align-last: center;
+    font-family: cursive;
+    background-color: #E4F9F5;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin: 0px auto 0px auto;
+    width : 20%;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top{
+    background-color: #E4F9F5;
+    padding-top: 100px;
+
+     
+    
+    
+}
+.middle{
+    
+}
+.bottom{
+  
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+
+
+}
+.satyendra{
+    height: 250px;
+    width: 250px;
+}
+.computer{
+    height: 250px;
+    width: 250px;
+}
+.drawing{
+    height: 250px;
+    width: 250px;
+}
